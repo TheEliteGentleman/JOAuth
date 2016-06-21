@@ -1,0 +1,1 @@
+Changed package to mavenize this project in MVNRepository
